@@ -1,14 +1,14 @@
 # DollhouseMCP
 
-## Professional AI Persona Management Platform
+## Professional AI Customization Management Platform
 
-DollhouseMCP is a comprehensive Model Context Protocol (MCP) server ecosystem that enables dynamic AI persona management with an integrated GitHub-powered marketplace.
+DollhouseMCP is a comprehensive Model Context Protocol (MCP) server ecosystem that enables dynamic AI customization management with an integrated GitHub-powered collection of Personas, Prompts, Skills, Memories, Agents, and Ensembles of all of them.
 
 ### 🚀 What We Build
 
-- **MCP Server**: Production-ready persona management server for Claude and other AI assistants
-- **Marketplace**: Community-driven persona sharing and distribution platform
-- **Enterprise Tools**: Professional-grade security, auto-updates, and monitoring
+- **MCP Server**: Production-ready AI customization management server for Claude and other AI assistants
+- **Collection**: Community-driven AI customization sharing and distribution platform
+- **Enterprise Tools**: Professional-grade security, auto-updates, content validation for safety
 
 ### 📦 Our Projects
 
@@ -19,18 +19,18 @@ The core MCP server implementation with 23 tools for complete persona lifecycle 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Tests](https://github.com/DollhouseMCP/mcp-server/actions/workflows/core-build-test.yml/badge.svg)](https://github.com/DollhouseMCP/mcp-server/actions)
 
-#### [personas](https://github.com/DollhouseMCP/personas)
-Community marketplace for AI personas - browse, share, and contribute personas for various use cases.
+#### [Collection](https://github.com/DollhouseMCP/collection)
+Community collection for AI personas, prompts, skills, memories, agents, and more - browse, share, and contribute personas for various use cases.
 
 ### 🎯 Our Mission
 
-To provide the most comprehensive, secure, and user-friendly AI persona management platform while fostering a vibrant community of creators and users.
+To provide the most comprehensive, secure, and user-friendly AI customization management platform while fostering a vibrant community of creators and users.
 
 ### 🤝 Get Involved
 
 - **Install**: `npm install -g @mickdarling/dollhousemcp`
 - **Contribute**: Check our [contribution guidelines](https://github.com/DollhouseMCP/mcp-server/blob/main/CONTRIBUTING.md)
-- **Create**: Share your personas in our [marketplace](https://github.com/DollhouseMCP/personas)
+- **Create**: Share your AI costomization elements in our [Collection](https://github.com/DollhouseMCP/collection)
 - **Support**: [Open an issue](https://github.com/DollhouseMCP/mcp-server/issues) for help
 
 ### 📈 Project Stats
