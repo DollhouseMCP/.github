@@ -26,9 +26,9 @@ To provide the most comprehensive, secure, and user-friendly AI persona manageme
 
 ### **[mcp-server](https://github.com/DollhouseMCP/mcp-server)** - The Heart of DollhouseMCP
 - **What it is**: The main server that makes everything work
-- **For developers**: Core MCP implementation, NPM package: `@dollhousemcp/mcp-server`
+- **For developers**: Core MCP implementation, NPM package: `@mickdarling/dollhousemcp`
 - **For everyone**: This is what powers DollhouseMCP
-- **Status**: [![npm version](https://img.shields.io/npm/v/@dollhousemcp/mcp-server.svg)](https://www.npmjs.com/package/@dollhousemcp/mcp-server) [![Tests](https://github.com/DollhouseMCP/mcp-server/actions/workflows/core-build-test.yml/badge.svg)](https://github.com/DollhouseMCP/mcp-server/actions)
+- **Status**: [![npm version](https://img.shields.io/npm/v/@mickdarling/dollhousemcp.svg)](https://www.npmjs.com/package/@mickdarling/dollhousemcp) [![Tests](https://github.com/DollhouseMCP/mcp-server/actions/workflows/core-build-test.yml/badge.svg)](https://github.com/DollhouseMCP/mcp-server/actions)
 
 ### **[collection](https://github.com/DollhouseMCP/collection)** - Community Marketplace
 - **What it is**: A library of pre-made AI personalities and elements created by the community
@@ -57,7 +57,10 @@ To provide the most comprehensive, secure, and user-friendly AI persona manageme
 ### For Independent Developers
 
 ```bash
-# Clone and set up the MCP server
+# Install from NPM
+npm install -g @mickdarling/dollhousemcp
+
+# Or clone and set up from source
 git clone https://github.com/DollhouseMCP/mcp-server.git
 cd mcp-server
 npm install
