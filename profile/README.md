@@ -1,24 +1,22 @@
 # DollhouseMCP Organization
 
-## Professional AI Persona Management Platform
+## Build Your AI Tools with Natural Language
 
-DollhouseMCP is a comprehensive Model Context Protocol (MCP) server ecosystem that enables dynamic AI persona management with an integrated GitHub-powered marketplace.
+DollhouseMCP lets you create **Personas**, **Skills**, **Templates**, **Agents**, and **Memory** elements to customize your AI experience. Build once, use everywhere; your elements work across platforms and follow you wherever you work. Whether you're automating a series of professional emails, getting advice from Mr. Rogers, summarizing long conversations, running a D&D campaign with the complete rulebook on call, or automating code reviews, our open source Model Context Protocol server gives you the tools to work exactly how you want.
 
 ### 🎯 Our Mission
 
-To provide the most comprehensive, secure, and user-friendly AI persona management platform while fostering a vibrant community of creators and users.
-
-> **Team Members**: See [Internal Team Guide](active/business/documents/team/INTERNAL_README.md) for internal repositories and resources.
+Enable everyone to customize their AI experience using natural language. Provide tools that persist across sessions and platforms, that can be shared with the community, and gather community insight to elevate artificial intelligence.
 
 ---
 
 ## 🎭 What is DollhouseMCP?
 
-**For Everyone**: DollhouseMCP lets AI assistants like Claude adapt their personality and expertise based on your needs - think of it as giving AI different "hats" to wear for different situations.
+**For Everyone**: Run a Murder Mystery dinner party with AI that knows all the clues. Organize your home with a persona that knows how you like things and memories that know where you put things. Don't just let AI tell you what's professional or casual writing, show it examples of your work. It can learn how to write in your voice and will remember your turns of phrase to help clarify your writing while keeping it authentically you.
 
-**For Developers**: A production-ready MCP server implementation with 47 MCP tools for complete persona lifecycle management, following Anthropic's Model Context Protocol specification.
+**For Developers**: Build elements for any workflow. Security Analyst personas, Penetration Testing skills, Data Analysis capabilities, or train AI to write in your voice—all work across any MCP-compatible system.
 
-**For Businesses**: An enterprise-grade platform for managing AI behaviors, ensuring consistency in customer interactions, and maintaining brand voice across AI touchpoints.
+**For Businesses**: Free up your team for work that requires human creativity and judgment. Build elements that automate review against your requirements, organize information for better absorption, and maintain quality standards. Handle the tedious tasks automatically so people can focus on what actually needs their talent, and attention.
 
 ---
 
@@ -137,6 +135,6 @@ See individual repositories for specific license details.
 
 ---
 
-*Building the future of AI persona management, one personality at a time.* 🎭
+*Community driven, open source customization that enriches AI for everyone.* 🎭
 
 **Last updated**: October 14, 2025
