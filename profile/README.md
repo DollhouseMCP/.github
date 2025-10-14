@@ -16,7 +16,7 @@ To provide the most comprehensive, secure, and user-friendly AI persona manageme
 
 **For Everyone**: DollhouseMCP lets AI assistants like Claude adapt their personality and expertise based on your needs - think of it as giving AI different "hats" to wear for different situations.
 
-**For Developers**: A production-ready MCP server implementation with 23+ tools for complete persona lifecycle management, following Anthropic's Model Context Protocol specification.
+**For Developers**: A production-ready MCP server implementation with 47 MCP tools for complete persona lifecycle management, following Anthropic's Model Context Protocol specification.
 
 **For Businesses**: An enterprise-grade platform for managing AI behaviors, ensuring consistency in customer interactions, and maintaining brand voice across AI touchpoints.
 
@@ -115,19 +115,28 @@ NAVIGATION_RULES:
 
 ## 📫 Contact & Support
 
-- **Founder**: [Mick Darling](https://github.com/mickdarling)
-- **Support**: [GitHub Issues](https://github.com/DollhouseMCP/mcp-server/issues)
+- **Email**: [mick@dollhousemcp.com](mailto:mick@dollhousemcp.com)
+- **Support**: [support@dollhousemcp.com](mailto:support@dollhousemcp.com) or [GitHub Issues](https://github.com/DollhouseMCP/mcp-server/issues)
+- **General Inquiries**: [contact@dollhousemcp.com](mailto:contact@dollhousemcp.com)
 - **Discussions**: [GitHub Discussions](https://github.com/DollhouseMCP/mcp-server/discussions)
-- **Website**: https://dollhousemcp.com (coming soon)
+- **Website**: [dollhousemcp.com](https://dollhousemcp.com)
+- **Founder**: [Mick Darling](https://github.com/mickdarling)
 
 ---
 
 ## 📜 License
 
-DollhouseMCP is open source software licensed under AGPL-3.0. See individual repositories for specific license details.
+DollhouseMCP is dual-licensed:
+
+- **AGPL-3.0** - Free for personal, educational, and open source projects
+- **Commercial License** - For proprietary/commercial use without AGPL obligations
+
+Contact [mick@dollhousemcp.com](mailto:mick@dollhousemcp.com) for commercial licensing inquiries.
+
+See individual repositories for specific license details.
 
 ---
 
 *Building the future of AI persona management, one personality at a time.* 🎭
 
-**Last updated**: July 29, 2025
+**Last updated**: October 14, 2025
